@@ -1,2 +1,2 @@
 # Machine-Learning-Info
-Overview of ML from 3BLUE1BROWN YouTube series
+Overview of Machine Learning from 3BLUE1BROWN YouTube series
